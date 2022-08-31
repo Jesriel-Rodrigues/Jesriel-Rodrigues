@@ -1,8 +1,8 @@
 ## Olá eu sou a Jesriel, Estudante e desenvolvedor Front-End!
 
 
-- 🌱 Estudando JavaScript e ReactJS
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando Java, Spring Boot JavaScript e ReactJS
+
 
 <div align="center">
   <a href="https://github.com/Jesriel-Rodrigues">
