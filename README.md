@@ -1,4 +1,4 @@
-## Olá eu sou a Jesriel, Estudante e desenvolvedor Front-End!
+## Olá eu sou a Jesriel, Estudante e desenvolvedor Back-End!
 
 
 - 🌱 Estudando Java, Spring Boot JavaScript e ReactJS
